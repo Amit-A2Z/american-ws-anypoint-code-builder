@@ -1,0 +1,2 @@
+curl http://0.0.0.0:8082/flights
+curl http://0.0.0.0:8082/api/flights
